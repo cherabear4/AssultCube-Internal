@@ -7,3 +7,5 @@ the time and energy to make this better at the moment
 everything is up to date for assult cube 1.3.0.2
 
 Making this taught me a lot about rendering and internal cheats, it was a fun project, do not paste pls (bad code)
+
+it does have an injector but im pretty sure its leaking a handle because i forgot to close that somewhere lol
