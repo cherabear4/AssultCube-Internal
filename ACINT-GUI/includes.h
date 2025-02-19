@@ -1,0 +1,10 @@
+#pragma once
+#include <windows.h>
+#include <GLFW/glfw3.h>
+#include <TlHelp32.h>
+#include "vendor/imgui/imgui.h"
+#include "vendor/imgui/backend/imgui_impl_glfw.h"
+#include "vendor/imgui/backend/imgui_impl_opengl3.h"
+#include <string>
+#include <iostream>
+#include "src/Injector.h"
